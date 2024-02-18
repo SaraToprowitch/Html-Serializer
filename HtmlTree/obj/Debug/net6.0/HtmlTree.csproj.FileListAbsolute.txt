@@ -1,0 +1,17 @@
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.csproj.AssemblyReference.cache
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.AssemblyInfoInputs.cache
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.AssemblyInfo.cs
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.csproj.CoreCompileInputs.cache
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlTree.exe
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlTree.deps.json
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlTree.runtimeconfig.json
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlTree.dll
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlTree.pdb
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.csproj.CopyComplete
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.dll
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\refint\HtmlTree.dll
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.pdb
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\HtmlTree.genruntimeconfig.cache
+C:\תכנות לימודים\שנה ב\practicode\HtmlTree\HtmlTree\obj\Debug\net6.0\ref\HtmlTree.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNSqL4ryc6pBGTdMEAy43cl4cy/PLcoEf+lvfpa82elZAybDaOIur6Fpxf4KdKlnaEG6wrvmkATQSzwpMXhiEw==",
+  "success": true,
+  "projectFilePath": "C:\\תכנות לימודים\\שנה ב\\practicode\\HtmlTree\\HtmlTree\\HtmlTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
